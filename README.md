@@ -145,7 +145,7 @@ If you find this project helpful:
 
 ---
 
-##Taking help from Create-React-App
+## Taking help from Create-React-App
 
 ---
 If you want, I can also:
